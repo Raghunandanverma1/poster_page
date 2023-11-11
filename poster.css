@@ -1,0 +1,60 @@
+.whole{
+    background-color: #e5e5fd;
+    min-height: 100vb;
+    padding: 5px;
+    border:10px solid #1d1e4c;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.img{
+    width: 250px;
+    clip-path: circle();
+    margin-left: 60%;
+}
+.top_section{
+    display: flex;
+   justify-content: space-between;
+   align-items: flex-end;
+}
+
+
+.top_section h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: #1d1e4c;
+    text-transform: uppercase;
+}
+.top_section h4{
+    text-align: end;
+    font-size: 20px;
+    margin-top: 0px;
+}
+.name{
+    margin-bottom: 0px;
+    margin-left: 10px;
+}
+.bio{
+    font-size: 30px;
+    font-weight: bold;
+}
+.abc{
+    margin: 30px;
+}
+.data{
+    text-align: justify;
+    font-size: 18px;
+    font-weight:bold ;
+    font-style: normal;
+    margin: 50px;
+   
+}
+.list{
+    text-align: justify;
+    font-size: 18px;
+    font-weight: bold;
+    font-style:normal ;
+   
+}
+footer p{
+    text-align: end;
+}
